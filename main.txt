@@ -1,2 +1,1 @@
-branch = master branch
-user = phreid
+branch = new branch
